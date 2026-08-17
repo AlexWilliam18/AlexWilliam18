@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlexWilliam18.AlexWilliam18&" />
-</div>
-
-###
-
 <h1 align="center">Olá, eu sou o Alex William 👋</h1>
 
 <h2 align="center">Desenvolvedor de Sistemas | Analista de Suporte Jr</h2>
