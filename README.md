@@ -24,8 +24,8 @@
     <a href="https://www.instagram.com/will_alexsilva/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
     </a>
-        <a href="https://www.credly.com/users/alex-silva.4036a2db" target="_blank">
-        <img src="perfil/icons/credly.png" width="50" height="40" alt="Credly logo" style="object-fit: cover;"/>
+    <a href="https://www.credly.com/users/alex-silva.4036a2db" target="_blank">
+        <img src="perfil/icons/credly.svg" width="52" height="40" alt="Credly logo" style="object-fit: cover;"/>
     </a>
 </div>
 
