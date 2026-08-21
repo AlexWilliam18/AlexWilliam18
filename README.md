@@ -68,7 +68,7 @@ Tenho interesse em desenvolvimento de sistemas e aplicações multiplataforma, c
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="mysql" />
 </div>
 
-Sistemas Operacionais & Virtualização
+**Sistemas Operacionais & Virtualização**
 
 <div align="left"> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="windows" /> 
