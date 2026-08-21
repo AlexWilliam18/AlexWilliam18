@@ -44,7 +44,7 @@ Tenho interesse em desenvolvimento de sistemas e aplicações multiplataforma, c
 |---|---|---|---|
 | ✂️ _Salão Novo Estilo_ | _Projeto Integrador - 2024/Senac-Itapira - Criação de site para divulgação com um sistema para organização de serviços e vendas de produtos. Com CRUD implementado._ | `HTML/CSS/JavaScript/PHP` | [Ver repositório](https://github.com/FabricioAltafiniTeodoro/pj_salaonovoestilo) |
 | 🔷 _GoraGo_ | _Projeto Integrador 1º Semestre- 2026/Fatec-Itapira - Criação de plataforma de vagas de estágio e emprego._ | `HTML/CSS` | [Ver repositório](https://github.com/AlexWilliam18/projeto_gorago) | 
-| 🛕 _Volta ao Mundo: Índia_ | _Projeto Volta ao Mundo: Índia - Criação de página web com HTML e CSS para testar capacidade de codificação e criatividade._ | `HTML/CSS` | [Ver repositório](https://github.com/AlexWilliam18/projeto_Volta_Ao_Mundo_India) | [Ver na Web](https://alexwilliam18.github.io/projeto_Volta_Ao_Mundo_India/) |
+| 🛕 _Volta ao Mundo: Índia_ | _Projeto Volta ao Mundo: Índia - Criação de página web com HTML e CSS para testar capacidade de codificação e criatividade._ | `HTML/CSS` | [Ver repositório](https://github.com/AlexWilliam18/projeto_Volta_Ao_Mundo_India) |
 
 ###
 
