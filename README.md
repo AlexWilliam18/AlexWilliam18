@@ -112,7 +112,7 @@ Tenho interesse em desenvolvimento de sistemas e aplicações multiplataforma, c
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexWilliam18/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexWilliam18/AlexWilliam18/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexWilliam18/AlexWilliam18/output/snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AlexWilliam18/AlexWilliam18/output/snake.svg">
 </picture>
