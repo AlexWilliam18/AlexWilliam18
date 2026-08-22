@@ -111,8 +111,10 @@ Tenho interesse em desenvolvimento de sistemas e aplicações multiplataforma, c
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=AlexWilliam18&layout=compact&langs_count=4&theme=github_dark" height="150" alt="languages graph" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexWilliam18/AlexWilliam18/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexWilliam18/AlexWilliam18/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AlexWilliam18/AlexWilliam18/output/snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexWilliam18/AlexWilliam18/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexWilliam18/AlexWilliam18/output/snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AlexWilliam18/AlexWilliam18/output/snake.svg">
+  </picture>
+</div>
